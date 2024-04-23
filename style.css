@@ -11,6 +11,22 @@ h2 {
     color: grey;
 }
 
-ol { 
-    color: goldenrod ;
+ol {
+    color: goldenrod;
+}
+
+#paragrafo {
+    color: #00ff00
+}
+
+#paragrafo1 {
+    color: #ff00ff;
+}
+
+#paragrafo2 {
+    color: #0000ff;
+}
+
+#paragrafo3 {
+    color: #00ffff;
 }
